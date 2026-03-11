@@ -25,11 +25,11 @@ const developer = {
 ```
 
 ## 🌍 Languages I Speak
-<div align="center>
+<div align="center">
 
 🇮🇩 **Bahasa Indonesia** - Native  
-🇺🇸 **English** - Business  
-🇯🇵 **日本語** - Business
+🇺🇸 **English** - Professional Working Proficiency  
+🇯🇵 **日本語** - Basic Conversation  
 
 </div>
 
