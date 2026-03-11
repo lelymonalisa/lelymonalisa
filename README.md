@@ -24,6 +24,15 @@ const developer = {
 };
 ```
 
+## 🌍 Languages I Speak
+<div align="center>
+
+🇮🇩 **Bahasa Indonesia** - Native  
+🇺🇸 **English** - Business  
+🇯🇵 **日本語** - Business
+
+</div>
+
 ## 🚀 Frontend Technologies
 
 <div align="center">
