@@ -29,7 +29,7 @@ const developer = {
 
 🇮🇩 **Bahasa Indonesia** - Native  
 🇺🇸 **English** - Professional Working Proficiency  
-🇯🇵 **日本語** - Basic Conversation  
+🇯🇵 **日本語** - Advance  
 
 </div>
 
