@@ -23,8 +23,6 @@ const developer = {
     coffeeDriven: true,
     catLover: true,
 };
-```
-```
 /\     /\      
 (  o   o  )  
  (  =^=  )  
@@ -41,6 +39,7 @@ const developer = {
                    |   0  . 0 "  |
                     \  > ~ <    /
 ```
+
 ## 🌍 Languages I Speak
 <div align="center">
 
