@@ -24,6 +24,21 @@ const developer = {
     catLover: true,
 };
 ```
+ /\     /\      
+(  o   o  )  
+ (  =^=  )  
+ (")___(") 
+   /   \  
+  (     ) 
+   | | |  
+  (_|_|_) 
+                        /\_/\                
+                       ( o.o )   
+                        > ^ <
+                    .''_ _ _ ''.
+                    /           \
+                   |   0  . 0 "  |
+                    \  > ~ <    /
 
 ## 🌍 Languages I Speak
 <div align="center">
