@@ -20,7 +20,8 @@ const developer = {
     passion: "Creating beautiful and functional digital experiences",
     currentFocus: "Building scalable web applications",
     alwaysLearning: true,
-    coffeeDriven: true
+    coffeeDriven: true,
+    catLover: true,
 };
 ```
 
