@@ -23,7 +23,7 @@ const developer = {
     coffeeDriven: true,
     catLover: true,
 };
-/\     /\      
+ /\     /\      
 (  o   o  )  
  (  =^=  )  
  (")___(") 
