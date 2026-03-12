@@ -24,7 +24,8 @@ const developer = {
     catLover: true,
 };
 ```
- /\     /\      
+```
+/\     /\      
 (  o   o  )  
  (  =^=  )  
  (")___(") 
@@ -39,7 +40,7 @@ const developer = {
                     /           \
                    |   0  . 0 "  |
                     \  > ~ <    /
-
+```
 ## 🌍 Languages I Speak
 <div align="center">
 
