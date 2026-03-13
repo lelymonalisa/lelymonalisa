@@ -36,8 +36,8 @@ const developer = {
                         > ^ <
                     .''_ _ _ ''.
                     /           \
-                   |   0  . 0 "  |
-                    \  > ~ <    /
+                   |    0 . 0 "  |
+                    \   > ~ <   /
 ```
 
 ## 🌍 Languages I Speak
